@@ -1,0 +1,3 @@
+http://localhost/El_extranjero/WEb/index.php?module=Pqrs&controller=Pqrs&function=read
+
+http://localhost/El_extranjero/WEb/user.php?module=Usuario&controller=Usuario&function=data
